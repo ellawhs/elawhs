@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil! 💕
+## Boas vindas ao meu perfil! 💕
 - Meu nome é *Myrella Ferreira* 
 - Sou estudante do alura e tenho 15 anos
 - Espaço para organização 🌱
